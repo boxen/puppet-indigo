@@ -2,7 +2,7 @@
 
 Installs the Indigo home automation app.
 
-[![Build Status](https://travis-ci.org/dwradcliffe/puppet-indigo.png?branch=master)](https://travis-ci.org/dwradcliffe/puppet-indigo)
+[![Build Status](https://travis-ci.org/boxen/puppet-indigo.svg?branch=master)](https://travis-ci.org/boxen/puppet-indigo)
 
 ## Usage
 
