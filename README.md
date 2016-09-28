@@ -1,15 +1,7 @@
 # Indigo Module for Boxen
 
-Installs the Indigo home automation app
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-[![Build Status](https://travis-ci.org/boxen/puppet-indigo.svg?branch=master)](https://travis-ci.org/boxen/puppet-indigo)
-
-## Usage
-
-```puppet
-include indigo
-```
-
-## Required Puppet Modules
-
-* `boxen`
+[1]: https://caskroom.github.io/
+[2]: https://github.com/boxen/puppet-boxen/blob/master/manifests/personal.pp#L14-L17
